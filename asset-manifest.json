@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/module20-challenge/static/css/main.d767dc09.css",
+    "main.js": "/module20-challenge/static/js/main.7d605429.js",
+    "static/media/avatar.jpg": "/module20-challenge/static/media/avatar.0b06e5e9ec2e4bf76e7d.jpg",
+    "index.html": "/module20-challenge/index.html",
+    "main.d767dc09.css.map": "/module20-challenge/static/css/main.d767dc09.css.map",
+    "main.7d605429.js.map": "/module20-challenge/static/js/main.7d605429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d767dc09.css",
+    "static/js/main.7d605429.js"
+  ]
+}
